@@ -1,0 +1,22 @@
+{
+  "name": "TesVue",
+  "authors": [
+    "elhaqqul <meggiekurniap@gmail.com>"
+  ],
+  "description": "Tes",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "vue": "^2.4.1"
+  }
+}
